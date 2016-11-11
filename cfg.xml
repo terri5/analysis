@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<root>
+    <storageConnectionString>
+        BlobEndpoint=http://cloudstoresys.blob.core.chinacloudapi.cn/;AccountName=cloudstoresys;AccountKey=
+    </storageConnectionString>
+    <handleFiles>
+        <file>localhost.log</file>
+        <file>pv_http.log</file>
+        <file>nginxproxy.log</file>
+        <file>netmon.log</file>      
+        <file>hit.log</file>
+    </handleFiles>  
+    <redis>
+        <max_cnn>100</max_cnn>
+         <port>6379</port>
+         <timeout>100000</timeout>
+        <auth>uISwqe868us&amp;W1xK</auth>
+        <host>localhost</host>
+        <db>7</db>
+    </redis>
+</root>
