@@ -5,9 +5,9 @@
  */
 package analysis;
 
-import com.hangmei.util.ConvertUtil;
-import com.hangmei.util.GZip;
-import com.hangmei.util.RegexUtil;
+import com.terri.util.ConvertUtil;
+import com.terri.util.GZip;
+import com.terri.util.RegexUtil;
 import com.microsoft.azure.storage.CloudStorageAccount;
 import com.microsoft.azure.storage.StorageException;
 import com.microsoft.azure.storage.blob.CloudBlob;

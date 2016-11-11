@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.hangmei.util;
+package com.terri.util;
 
-import com.hangmei.model.IHBaseModel;
-import static com.hangmei.util.HbaseUtil.put;
+import com.terri.model.IHBaseModel;
+import static com.terri.util.HbaseUtil.put;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collection;

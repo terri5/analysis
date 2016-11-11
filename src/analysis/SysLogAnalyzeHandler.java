@@ -5,11 +5,11 @@
  */
 package analysis;
 
-import com.hangmei.model.Hit;
-import com.hangmei.model.PV;
-import com.hangmei.model.IHBaseModel;
-import com.hangmei.model.NetMon;
-import com.hangmei.util.HbaseUtil;
+import com.terri.model.Hit;
+import com.terri.model.PV;
+import com.terri.model.IHBaseModel;
+import com.terri.model.NetMon;
+import com.terri.util.HbaseUtil;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.time.LocalTime;

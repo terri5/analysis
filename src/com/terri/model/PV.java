@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.hangmei.model;
+package com.terri.model;
 
-import com.hangmei.util.ConvertUtil;
-import com.hangmei.util.RegexUtil;
+import com.terri.util.ConvertUtil;
+import com.terri.util.RegexUtil;
 import java.io.UnsupportedEncodingException;
 import java.security.NoSuchAlgorithmException;
 import java.text.ParseException;

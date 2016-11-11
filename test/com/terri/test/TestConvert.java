@@ -5,8 +5,8 @@
  */
 package com.terri.test;
 
-import com.hangmei.util.ConvertUtil;
-import com.hangmei.util.MD5;
+import com.terri.util.ConvertUtil;
+import com.terri.util.MD5;
 import java.util.Map;
 import org.junit.After;
 import org.junit.AfterClass;

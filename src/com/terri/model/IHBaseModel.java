@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.hangmei.model;
+package com.terri.model;
 
 import java.util.Date;
 import java.util.Map;
